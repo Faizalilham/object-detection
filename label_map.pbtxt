@@ -1,15 +1,15 @@
 item{
 id: 1
-name: 'faishal'
+name: 'Faishal'
 }
 
 item{
 id: 2
-name: 'faizal'
+name: 'Faizal'
 }
 
 item{
-id: 2
-name: 'yusron'
+id: 3
+name: 'Yusron'
 }
 
