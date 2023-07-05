@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>faizal2.jpg</filename>
+	<path>C:\Users\User\Documents\Python\Dataset\pendo\images\faizal2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>517</width>
+		<height>919</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>faizal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>285</ymin>
+			<xmax>392</xmax>
+			<ymax>596</ymax>
+		</bndbox>
+	</object>
+</annotation>
