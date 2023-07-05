@@ -1,0 +1,26 @@
+<annotation>
+	<folder>datass</folder>
+	<filename>yusronns (236).jpg</filename>
+	<path>/home/faizal/Documents/ww/yussron/datass/yusronns (236).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2268</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yusron</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>574</xmin>
+			<ymin>1233</ymin>
+			<xmax>1411</xmax>
+			<ymax>2321</ymax>
+		</bndbox>
+	</object>
+</annotation>

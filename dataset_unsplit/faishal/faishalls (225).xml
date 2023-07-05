@@ -1,0 +1,26 @@
+<annotation>
+	<folder>datasss</folder>
+	<filename>faishalls (225).jpg</filename>
+	<path>/home/faizal/Documents/ww/faisol/datasss/faishalls (225).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2268</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Faishal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>596</xmin>
+			<ymin>948</ymin>
+			<xmax>1545</xmax>
+			<ymax>2298</ymax>
+		</bndbox>
+	</object>
+</annotation>
