@@ -1,26 +1,26 @@
 <annotation>
-	<folder>datass</folder>
+	<folder>images</folder>
 	<filename>yusronns (250).jpg</filename>
-	<path>/home/faizal/Documents/ww/yussron/datass/yusronns (250).jpg</path>
+	<path>D:\project-flutter\news dataset\yusron\images\yusronns (250).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2268</width>
-		<height>4032</height>
+		<width>383</width>
+		<height>680</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Yusron</name>
+		<name>yusron</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>664</xmin>
-			<ymin>1265</ymin>
-			<xmax>1501</xmax>
-			<ymax>2353</ymax>
+			<xmin>110</xmin>
+			<ymin>212</ymin>
+			<xmax>263</xmax>
+			<ymax>417</ymax>
 		</bndbox>
 	</object>
 </annotation>

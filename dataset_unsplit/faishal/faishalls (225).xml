@@ -1,26 +1,26 @@
 <annotation>
-	<folder>datasss</folder>
+	<folder>images</folder>
 	<filename>faishalls (225).jpg</filename>
-	<path>/home/faizal/Documents/ww/faisol/datasss/faishalls (225).jpg</path>
+	<path>D:\project-flutter\news dataset\faishal\images\faishalls (225).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2268</width>
-		<height>4032</height>
+		<width>518</width>
+		<height>921</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Faishal</name>
+		<name>faishal</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>596</xmin>
-			<ymin>948</ymin>
-			<xmax>1545</xmax>
-			<ymax>2298</ymax>
+			<xmin>126</xmin>
+			<ymin>210</ymin>
+			<xmax>354</xmax>
+			<ymax>518</ymax>
 		</bndbox>
 	</object>
 </annotation>
