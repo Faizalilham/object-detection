@@ -1,15 +1,10 @@
 item{
 id: 1
-name: 'Faishal'
+name: 'faizal'
 }
 
 item{
 id: 2
-name: 'Faizal'
-}
-
-item{
-id: 3
-name: 'Yusron'
+name: 'yusron'
 }
 

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>pendoos (235).jpg</filename>
+	<path>D:\project-flutter\news dataset\pendo\images\pendoos (235).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>520</width>
+		<height>924</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>faizal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>304</ymin>
+			<xmax>346</xmax>
+			<ymax>597</ymax>
+		</bndbox>
+	</object>
+</annotation>
