@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>faishal21.jpg</filename>
+	<path>/home/faizal/Python/news dataset/faishal/images/faishal21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>519</width>
+		<height>923</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>faishal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>183</ymin>
+			<xmax>352</xmax>
+			<ymax>519</ymax>
+		</bndbox>
+	</object>
+</annotation>
