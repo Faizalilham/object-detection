@@ -1,13 +1,13 @@
 <annotation>
-	<folder>images</folder>
+	<folder>BulkResizePhotos.com</folder>
 	<filename>faizal4.jpg</filename>
-	<path>C:\Users\User\Documents\Python\Dataset\pendo\images\faizal4.jpg</path>
+	<path>D:\settdata\pendo\BulkResizePhotos.com\faizal4.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>520</width>
-		<height>925</height>
+		<width>405</width>
+		<height>719</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>138</xmin>
-			<ymin>285</ymin>
-			<xmax>387</xmax>
-			<ymax>607</ymax>
+			<xmin>122</xmin>
+			<ymin>219</ymin>
+			<xmax>321</xmax>
+			<ymax>456</ymax>
 		</bndbox>
 	</object>
 </annotation>

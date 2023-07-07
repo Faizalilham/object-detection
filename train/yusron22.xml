@@ -1,0 +1,26 @@
+<annotation>
+	<folder>yussron</folder>
+	<filename>yusron22.jpg</filename>
+	<path>D:\settdata\yussron\yusron22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>343</width>
+		<height>609</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yusron</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>179</ymin>
+			<xmax>233</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>

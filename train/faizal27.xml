@@ -1,0 +1,26 @@
+<annotation>
+	<folder>BulkResizePhotos.com</folder>
+	<filename>faizal27.jpg</filename>
+	<path>D:\settdata\pendo\BulkResizePhotos.com\faizal27.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>470</width>
+		<height>836</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>faizal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>264</ymin>
+			<xmax>347</xmax>
+			<ymax>538</ymax>
+		</bndbox>
+	</object>
+</annotation>

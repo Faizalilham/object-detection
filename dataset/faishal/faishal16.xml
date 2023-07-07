@@ -1,0 +1,26 @@
+<annotation>
+	<folder>faishal</folder>
+	<filename>faishal16.jpg</filename>
+	<path>D:\settdata\faisol\faishal\faishal16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>457</width>
+		<height>813</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>faishal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>178</ymin>
+			<xmax>348</xmax>
+			<ymax>470</ymax>
+		</bndbox>
+	</object>
+</annotation>

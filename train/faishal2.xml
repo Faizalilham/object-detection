@@ -1,13 +1,13 @@
 <annotation>
-	<folder>images</folder>
-	<filename>faishalls (206).jpg</filename>
-	<path>C:\Users\User\Documents\Python\Dataset\faishal\images\faishalls (206).jpg</path>
+	<folder>faishal</folder>
+	<filename>faishal2.jpg</filename>
+	<path>D:\settdata\faisol\faishal\faishal2.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>507</width>
-		<height>902</height>
+		<width>454</width>
+		<height>808</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>156</xmin>
-			<ymin>190</ymin>
-			<xmax>386</xmax>
-			<ymax>518</ymax>
+			<xmin>144</xmin>
+			<ymin>161</ymin>
+			<xmax>369</xmax>
+			<ymax>453</ymax>
 		</bndbox>
 	</object>
 </annotation>
